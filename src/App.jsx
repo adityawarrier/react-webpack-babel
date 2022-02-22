@@ -1,6 +1,6 @@
+import { ArrayUtils, Box, Button } from "@adityawarrier/react-lib";
 import React, { useEffect } from "react";
 import "./App.css";
-import { ArrayUtils, Box, Button } from "@adityawarrier/react-lib";
 
 export const App = () => {
   useEffect(() => {
